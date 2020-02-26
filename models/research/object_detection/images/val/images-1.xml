@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>images-1.jpg</filename>
+	<path>C:\Users\jinwo\models\research\object_detection\images\val\images-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>121</ymin>
+			<xmax>601</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
